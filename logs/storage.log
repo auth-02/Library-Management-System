@@ -1,0 +1,10 @@
+2024-07-28 18:41:12 :: Storage initialized with file path: data/books.json
+2024-07-28 18:41:12 :: File not found: data/books.json
+2024-07-28 18:41:12 :: Storage initialized with file path: data/users.json
+2024-07-28 18:41:12 :: File not found: data/users.json
+2024-07-28 18:41:12 :: Storage initialized with file path: data/checkouts.json
+2024-07-28 18:41:12 :: File not found: data/checkouts.json
+2024-07-28 18:41:22 :: Data saved to file: data/users.json
+2024-07-28 18:42:03 :: Data saved to file: data/books.json
+2024-07-28 18:42:20 :: Data saved to file: data/books.json
+2024-07-28 18:42:20 :: Data saved to file: data/checkouts.json
